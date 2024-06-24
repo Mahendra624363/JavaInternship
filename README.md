@@ -8,5 +8,12 @@
      About Project - It contains Quiz Questions
      Which are Displayed on Console and Answers Are
      given input by users .
-       
-               
+
+
+                    2nd project
+                 ****************
+     Project Name - URL Shortener Program
+
+     About Project - It shorts the given large url
+     and store it. return the long url by passing 
+     short url given by user if available.
